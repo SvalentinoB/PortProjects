@@ -29,7 +29,17 @@ Interested in supporting business development and continuously improving process
 - Python (pandas, numpy, matplotlib, seaborn)
 - Tableau, Power BI
 - Excel, Google Sheets
-
+![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Standard-F28C38?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-F28C38?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-F28C38?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-2023-FFFFFF?style=flat&logo=tableau&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-2023-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-365-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-2023-34A853?style=flat&logo=google-sheets&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-1.5-150458?style=flat&logo=pandas&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-0.12-1B4F72?style=flat)
+![License](https://img.shields.io/badge/License-MIT-008000?style=flat)
 ## How to Run
 1. Clone the repository: `git clone https://github.com/SvalentinoB/PortProjects.git`
 2. Install dependencies: `pip install -r requirements.txt`
