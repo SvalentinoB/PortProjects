@@ -56,4 +56,4 @@ The project is divided into eight stages, each with a Jupyter Notebook and suppo
 - [Project Report](docs/SpaceY.pdf)
 
 ## Links
-- [SpaceX Launch Records Dashboard](https://vsianskyi.pythonanywhere.com) 
+- [SpaceY Launch Records Dashboard](https://vsianskyi.pythonanywhere.com) 
