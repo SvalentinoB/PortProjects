@@ -37,12 +37,6 @@ Interested in supporting business development and continuously improving process
 - Tableau, Power BI
 - Excel, Google Sheets
   
-
-## How to Run
-1. Clone the repository: `git clone https://github.com/SvalentinoB/PortProjects.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook projects/<project>/notebooks/analysis.ipynb`
-
 ## Contact
 - 📧 [v.sianskyi@gmail.com](mailto:v.sianskyi@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/valentyn-sianskyi)
