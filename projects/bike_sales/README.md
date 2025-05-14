@@ -1,4 +1,4 @@
-# Bike Sales Dashboard
+# *Bike Sales Dashboard*
 
 ![Excel](https://img.shields.io/badge/Excel-2019-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-2023-4472C4?style=flat)
