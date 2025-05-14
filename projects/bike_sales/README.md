@@ -16,7 +16,7 @@ A personal project, analyzing bike buyer data through data cleaning, Pivot Table
 - Interactive dashboard with filters (Marital Status, Region, Education).
 
 ## Files
-- **Dashboard**: `bike_sales_dashboard.xlsx` - Interactive Excel file.
+- **Dashboard**: [`bike_sales_dashboard.xlsx`](data/bike_sales_dashboard.xlsx) - Interactive Excel file.
 
 ## Visualizations
 - [Bike Sales Dashboard](visualizations/Bike_Sales_Dashboard_screenshot.png)
