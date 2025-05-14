@@ -24,7 +24,7 @@ Completed several projects in data cleaning, analysis, and visualization.
 Interested in supporting business development and continuously improving processes through data insights.
 
 ## Featured Projects
-- [SPACE Y Capstone Project](projects/space_y)
+- [SPACE Y Capstone Project](projects/space_y) - Predicted Falcon 9 landing success using Python, SQL, Plotly Dash, Folium, and machine learning (83.3% accuracy).
 - [Bike Sales Dashboard](projects/bike_sales)
 - [Data Professional Survey Breakdown](projects/survey_breakdown)
 - [Airbnb Dashboard](projects/airbnb)
