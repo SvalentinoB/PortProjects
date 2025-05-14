@@ -1,4 +1,5 @@
-# Data Analytics Portfolio | Valentyn Sianskyi
+# &emsp;&emsp;&emsp;*PORTFOLIO* 
+## &emsp;Valentyn Sianskyi  |  Data Analyst
 
 ![Header Banner](assets/header_banner.png) 
 <!-- Add a banner later -->
