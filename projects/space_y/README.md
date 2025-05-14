@@ -49,11 +49,11 @@ The project is divided into eight stages, each with a Jupyter Notebook and suppo
 - Developed 5 interactive dashboards and 3 maps.
 
 ## Visualizations
-- [Folium Map](visualizations/launch_sites_map.png) (to be added)
-- [Plotly Dash Dashboard](visualizations/dashboard_pie_chart.png) (to be added)
+- [Folium Map](visualizations/launch_sites_map.png) 
+- [Plotly Dash Dashboard](visualizations/dashboard_pie_chart.png) 
 
 ## Files
 - [Project Report](docs/SpaceY.pdf)
 
 ## Links
-- [Dashboard Demo](https://your-pythonanywhere-url.com) (replace with actual URL if hosted)
+- [Dashboard Demo](https://vsianskyi.pythonanywhere.com) 
