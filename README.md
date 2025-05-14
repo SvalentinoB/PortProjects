@@ -41,6 +41,6 @@ Interested in supporting business development and continuously improving process
 - 📧 [v.sianskyi@gmail.com](mailto:v.sianskyi@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/valentyn-sianskyi)
   
-![License](https://img.shields.io/badge/License-MIT-008000?style=flat)
+![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat)
 
-*Last updated: May 14, 2025*      
+*Last updated: May 15, 2025*      
