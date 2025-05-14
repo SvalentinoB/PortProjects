@@ -30,7 +30,7 @@ This project analyzes SpaceX Falcon 9 launch data to predict first-stage landing
 
 ## Visualizations
 - [Folium Map](visualizations/launch_sites_map.png) (to be added)
-- [Plotly Dash Dashboard](visualizations/dashboard_screenshot.png) (to be added)
+- [Plotly Dash Dashboard](visualizations/dashboard_pie_chart.png) (to be added)
 
 ## Files
 - [Project Report](docs/SpaceY.pdf)
