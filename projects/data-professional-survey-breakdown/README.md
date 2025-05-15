@@ -9,12 +9,16 @@ An interactive Power BI dashboard analyzing survey data of data professionals, s
 - **Count of Country**: A bar chart displaying the number of survey participants from each country, highlighting geographic distribution trends.
 - **Average Salary by Job Title**: A column chart showing the average salary for roles like Data Scientist, Data Engineer, and Data Analyst, enabling salary comparisons across positions.
 
-Click to view: [Dashboard](visualizations/).
+Click to view: [Dashboard](https://github.com/SvalentinoB/PortProjects/projects/data-professional-survey-breakdown/visualization/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pdf).
 
 ## Technologies Used
 - Power BI
 - Power Query Editor
 - Excel
+
+## Files
+- [Power BI](https://github.com/SvalentinoB/PortProjects/projects/data-professional-survey-breakdown/power_bi_file/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pbix)
+- [Excel](https://github.com/SvalentinoB/PortProjects/projects/data-professional-survey-breakdown/data/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.xlsx)
 
 ## Installation and Usage
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
