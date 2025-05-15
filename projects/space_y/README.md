@@ -58,8 +58,7 @@ The project is divided into eight stages, each with a Jupyter Notebook and suppo
 ## Links
 - [SpaceY Launch Records Dashboard](https://vsianskyi.pythonanywhere.com)
 
-
-  
-[License](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE)
+## License
+This project is licensed under the [GNU General Public License v3.0](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE).
 
 ![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat&logo=gnu)
