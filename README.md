@@ -25,10 +25,10 @@ Completed several projects in data cleaning, analysis, and visualization.
 Interested in supporting business development and continuously improving processes through data insights.
 
 ## Featured Projects
-- [SPACE Y Capstone Project](projects/space_y) - Predicted Falcon 9 landing success using Python, SQL, Plotly Dash, Folium, and machine learning (83.3% accuracy).
-- [Bike Sales Dashboard](projects/bike_sales) - Analyzed bike sales with Excel and Pivot Tables.
-- [Data Professional Survey Breakdown](projects/survey_breakdown)
-- [Airbnb Dashboard](projects/airbnb)
+- [SPACE Y Capstone Project](https://github.com/SvalentinoB/PortProjects/blob/main/projects/space_y/README.md) - Predicted Falcon 9 landing success using Python, SQL, Plotly Dash, Folium, and machine learning (83.3% accuracy).
+- [Bike Sales Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/bike_sales/README.md) - Analyzed bike sales with Excel and Pivot Tables.
+- [Data Professional Survey Breakdown](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/README.md)
+- [Airbnb Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/airbnb/README.md)
 - [Analysis of COVID19 Data](projects/covid19_analysis)
 
 ## Skills
