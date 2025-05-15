@@ -27,8 +27,8 @@ Interested in supporting business development and continuously improving process
 ## Featured Projects
 - [SPACE Y Capstone Project](https://github.com/SvalentinoB/PortProjects/blob/main/projects/space_y/README.md) - Predicted Falcon 9 landing success using Python, SQL, Plotly Dash, Folium, and machine learning (83.3% accuracy).
 - [Bike Sales Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/bike_sales/README.md) - Analyzed bike sales with Excel and Pivot Tables.
-- [Data Professional Survey Breakdown](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/README.md)
-- [Airbnb Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/airbnb/README.md)
+- [Data Professional Survey Breakdown](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/README.md) - Analyzed survey data of data professionals with Excel and Power BI.
+- [Airbnb Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/airbnb/README.md) - Airbnb Listings: Pricing Trends and Revenue Insights via Interactive Tableau Dashboard.
 - [Analysis of COVID19 Data](projects/covid19_analysis)
 
 ## Skills
