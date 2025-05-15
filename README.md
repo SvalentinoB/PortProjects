@@ -29,7 +29,7 @@ Interested in supporting business development and continuously improving process
 - [Bike Sales Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/bike_sales/README.md) - Analyzed bike sales with Excel and Pivot Tables.
 - [Data Professional Survey Breakdown](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/README.md) - Analyzed survey data of data professionals with Excel and Power BI.
 - [Airbnb Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/airbnb/README.md) - Airbnb Listings: Pricing Trends and Revenue Insights via Interactive Tableau Dashboard.
-- [Analysis of COVID19 Data](https://github.com/SvalentinoB/PortProjects/edit/main/projects/covid19-data-analysis/README.md) - An SQL-based analysis of COVID-19 datasets, focusing on key metrics such as total cases, fatalities, and vaccination rates to uncover pandemic trends.
+- [Analysis of COVID19 Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/README.md) - An SQL-based analysis of COVID-19 datasets, focusing on key metrics such as total cases, fatalities, and vaccination rates to uncover pandemic trends.
 
 ## Skills
 - SQL (PostgreSQL, MySQL)
