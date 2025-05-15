@@ -1,7 +1,7 @@
 # Data Professional Survey Breakdown
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-2023-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-365-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 An interactive Power BI dashboard analyzing survey data of data professionals, showcasing distribution by country and average salary by job title (Data Scientist, Data Engineer, Data Analyst, etc.).
 
