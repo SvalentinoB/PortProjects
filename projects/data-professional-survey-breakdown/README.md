@@ -2,24 +2,24 @@
 
 ![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-blue.svg)
 
-Інтерактивний дашборд у Power BI для аналізу даних опитування професіоналів у сфері даних. Проєкт демонструє розподіл за країнами та середню зарплату за посадами (Data Scientist, Data Engineer, Data Analyst тощо).
+An interactive Power BI dashboard analyzing survey data of data professionals, showcasing distribution by country and average salary by job title (Data Scientist, Data Engineer, Data Analyst, etc.).
 
-## Візуалізації
-- **Count of Country**: Розподіл учасників за країнами.
-- **Average Salary by Job Title**: Середня зарплата за посадами.
+## Visualizations
+- **Count of Country**: Distribution of participants by country.
+- **Average Salary by Job Title**: Average salary by job title.
 
-Перегляньте скріншоти у папці [visualizations](visualizations/).
+View screenshots in the [visualizations](visualizations/) folder.
 
-## Використані технології
+## Technologies Used
 - Power BI
 - Power Query Editor
 - Excel
 
-## Встановлення та використання
-1. Встановіть [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Завантажте файл `DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pbix` із цього репозиторію.
-3. Відкрийте файл у Power BI Desktop для перегляду дашборду.
-4. (Опціонально) Перегляньте дані в `DATA_PROFESSIONAL_SURVEY_BREAKDOWN_data.xlsx`.
+## Installation and Usage
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Download the `DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pbix` file from this repository.
+3. Open the file in Power BI Desktop to explore the dashboard.
+4. (Optional) Review the source data in `DATA_PROFESSIONAL_SURVEY_BREAKDOWN_data.xlsx`.
 
-## Ліцензія
-Цей проєкт ліцензовано під [GNU General Public License v3.0](LICENSE).
+## License
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
