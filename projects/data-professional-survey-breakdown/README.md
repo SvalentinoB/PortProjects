@@ -17,8 +17,8 @@ Click to view: [Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main
 - Excel
 
 ## Files
-- [Power BI](https://github.com/SvalentinoB/PortProjects/projects/data-professional-survey-breakdown/power_bi_file/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pbix)
-- [Excel](https://github.com/SvalentinoB/PortProjects/projects/data-professional-survey-breakdown/data/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.xlsx)
+- [Power BI](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/power_bi_file/DATA_PROFESSIONAL_SURVEY_BREAKDOWN.pbix)
+- [Excel](https://github.com/SvalentinoB/PortProjects/blob/main/projects/data-professional-survey-breakdown/data/DATA_PROFESSIONAL_SURVEY_BREAKDOWN_data.xlsx)
 
 ## Installation and Usage
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
