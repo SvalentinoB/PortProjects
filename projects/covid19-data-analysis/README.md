@@ -20,7 +20,7 @@ View screenshots in the [visualizations](visualizations/) folder:
 
 ## Data Source
 - Dataset: [Our World in Data COVID-19](https://covid.ourworldindata.org/data/owid-covid-data.xlsx) (see [Download link of Covid Data.txt](data/Download%20link%20of%20Covid%20Data.txt)).
-- Split into [CovidDeaths.xlsx](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/data/CovidDeaths.xls) and [CovidVaccinations.xlsx](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/data/CovidVaccinations.xls) for analysis.
+- Split into [CovidDeaths.xls](data/CovidDeaths.xls) and [CovidVaccinations.xls](data/CovidVaccinations.xls) for analysis.
 
 ## Installation and Usage
 1. Download [CovidDeaths.xlsx](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/data/CovidDeaths.xls) and [CovidVaccinations.xlsx](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/data/CovidVaccinations.xls) from the [data](data/) folder.
