@@ -32,3 +32,8 @@ Analyzed Airbnb listings to identify pricing trends, occupancy rates, and host p
 
 ## Links
 - [Tableau Dashboard](https://public.tableau.com/app/profile/your.tableau.profile)
+
+ 
+[License](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE)
+
+![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat&logo=gnu)
