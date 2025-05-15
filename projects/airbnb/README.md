@@ -23,6 +23,7 @@ insights and support strategic decision-making.
 - [Tableau Dashboard](https://public.tableau.com/app/profile/valentin.sianskyi2480/viz/AirBnBProjectbyValentin_17267751090520/Dashboard1?publish=yes)
 
  
-[License](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE)
+## License
+This project is licensed under the [GNU General Public License v3.0](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE).
 
 ![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat&logo=gnu)
