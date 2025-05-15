@@ -16,7 +16,6 @@ insights and support strategic decision-making.
 -  **Date**: February 2024.
 
 ## Files
-- **Excel**: [`airbnb_listings.xlsx`](PortProjects/projects/airbnb/data/airbnb_listings.xlsx) - Dataset. Data cleaning and analysis.
 - **Tableau Dashboard**: [Link to Tableau Public](https://public.tableau.com/app/profile/valentin.sianskyi2480/viz/AirBnBProjectbyValentin_17267751090520/Dashboard1?publish=yes).
 
 
