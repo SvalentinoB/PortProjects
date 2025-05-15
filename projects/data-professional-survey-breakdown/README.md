@@ -22,4 +22,6 @@ View screenshots in the [visualizations](visualizations/) folder.
 4. (Optional) Review the source data in `DATA_PROFESSIONAL_SURVEY_BREAKDOWN_data.xlsx`.
 
 ## License
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE).
+
+![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat&logo=gnu)
