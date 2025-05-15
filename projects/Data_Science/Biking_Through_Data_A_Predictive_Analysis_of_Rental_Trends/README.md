@@ -30,9 +30,9 @@ View screenshots in the [visualizations](visualizations/) folder:
 ## Installation and Usage
 1. Clone the repository and navigate to the project folder.
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`.
-3. Open [Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends.ipynb](Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends.ipynb) in Jupyter Notebook.
+3. Open [Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends.ipynb](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends/Biking%20Through%20Data_A%20Predictive%20Analysis%20of%20Rental%20Trends.ipynb) in Jupyter Notebook.
 4. Run the notebook to explore data analysis and model results.
-5. View the PDF report [Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends](pdf/Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends.pdf).
+5. View the PDF report [Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends/pdf/Biking%20Through%20Data_A%20Predictive%20Analysis%20of%20Rental%20Trends.pdf).
 
 ## License
 This project is licensed under the [GNU General Public License v3.0](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE).
