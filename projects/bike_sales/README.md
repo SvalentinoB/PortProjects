@@ -29,6 +29,7 @@ A personal project, analyzing bike buyer data through data cleaning, Pivot Table
 - [Project Files](https://github.com/SvalentinoB/PortProjects/tree/main/projects/bike_sales)
 
 
-[License](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE)
+## License
+This project is licensed under the [GNU General Public License v3.0](https://github.com/SvalentinoB/PortProjects/blob/main/LICENSE).
 
 ![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-008000?style=flat&logo=gnu)
