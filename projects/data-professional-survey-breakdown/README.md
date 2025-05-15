@@ -1,14 +1,15 @@
 # Data Professional Survey Breakdown
 
-![License](https://img.shields.io/badge/License-GNU%20GPL%20v3.0-blue.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 
 An interactive Power BI dashboard analyzing survey data of data professionals, showcasing distribution by country and average salary by job title (Data Scientist, Data Engineer, Data Analyst, etc.).
 
 ## Visualizations
-- **Count of Country**: Distribution of participants by country.
-- **Average Salary by Job Title**: Average salary by job title.
+- **Count of Country**: A bar chart displaying the number of survey participants from each country, highlighting geographic distribution trends.
+- **Average Salary by Job Title**: A column chart showing the average salary for roles like Data Scientist, Data Engineer, and Data Analyst, enabling salary comparisons across positions.
 
-View screenshots in the [visualizations](visualizations/) folder.
+Click to view: [Dashboard](visualizations/).
 
 ## Technologies Used
 - Power BI
