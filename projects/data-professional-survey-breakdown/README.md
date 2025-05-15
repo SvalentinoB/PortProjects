@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-2023-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-365-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-An interactive Power BI dashboard analyzing survey data of data professionals, showcasing distribution by country and average salary by job title (Data Scientist, Data Engineer, Data Analyst, etc.).
+An interactive Power BI dashboard analyzing survey data of data professionals, showcasing distribution by country and average salary by job title (*Data Scientist, Data Engineer, Data Analyst, etc.*).
 
 ## Visualizations
 - **Count of Country**: A bar chart displaying the number of survey participants from each country, highlighting geographic distribution trends.
