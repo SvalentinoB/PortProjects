@@ -33,6 +33,7 @@ Interested in supporting business development and continuously improving process
 - [Biking Through Data: A Predictive Analysis of Rental Trends](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends/README.md) - Predicted hourly bike rental demand in Seoul using Python and machine learning (linear regression).
 - [Extracting Stock Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Extracting_Stock_Data/README.md) - Extracted and analyzed AMD stock data using Python and yfinance for hedge fund insights.
 - [Extracting and Visualizing Stock Data: Tesla and GameStop Analysis](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Extracting_and_Visualizing_Stock_Data/README.md) - Extracting and Visualizing stock and revenue data for Tesla (TSLA) and GameStop (GME) using Python.
+- [Simple Linear Regression](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Simple_Linear_Regression_Fuel_Consumption/README.md) - Simple Linear Regression. Predicts fuel economy (MPG) based on vehicle horsepower using linear regression.
 
 ## Skills
 - SQL (PostgreSQL, MySQL)
