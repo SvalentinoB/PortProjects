@@ -5,7 +5,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-1F77B4?style=flat&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-1.4-FFCF00?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 A data science project to perform simple linear regression analysis on vehicle fuel consumption data, predicting the impact of horsepower (HP) on fuel economy (Miles Per Gallon, MPG) using Python. The project leverages libraries such as `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn` for data processing, visualization, and modeling.
