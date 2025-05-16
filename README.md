@@ -34,6 +34,7 @@ Interested in supporting business development and continuously improving process
 - [Extracting Stock Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Extracting_Stock_Data/README.md) - Extracted and analyzed AMD stock data using Python and yfinance for hedge fund insights.
 - [Extracting and Visualizing Stock Data: Tesla and GameStop Analysis](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Extracting_and_Visualizing_Stock_Data/README.md) - Extracting and Visualizing stock and revenue data for Tesla (TSLA) and GameStop (GME) using Python.
 - [Simple Linear Regression](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Simple_Linear_Regression_Fuel_Consumption/README.md) - Simple Linear Regression. Predicts fuel economy (MPG) based on vehicle horsepower using linear regression.
+- [Web Scraping Amazon Stock Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Webscraping/README.md) - Web Scraping and processing historical stock price data of Amazon (AMZN) using Python.
 
 ## Skills
 - SQL (PostgreSQL, MySQL)
