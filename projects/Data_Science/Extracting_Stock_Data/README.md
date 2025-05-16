@@ -10,8 +10,9 @@ A data science project to extract and analyze stock data for Advanced Micro Devi
 ## Technologies Used
 - Python (pandas, yfinance)
 - Jupyter Notebook
-
+  
 ## Data Source
+- Dataset: [amd.json](data/amd.json) (stock metadata)
 - Historical stock data retrieved via `yfinance` API
 
 ## Installation and Usage
