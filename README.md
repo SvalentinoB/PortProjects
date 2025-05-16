@@ -3,12 +3,26 @@
 
 ![Header Banner](assets/header_banner.png) 
 <!-- Add a banner later -->
-![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-F28C38?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-2023-FFFFFF?style=flat&logo=tableau&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-2023-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.8/3.11-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-1.5//2.2.2/2.2.3-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-3776AB?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-0.12/0.13-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-5.15-3776AB?style=flat&logo=python&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-2023-3776AB?style=flat&logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-0.2.38/0.2.44-3776AB?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12.2-3776AB?style=flat&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.31.0-3776AB?style=flat&logo=python&logoColor=white)\
 ![Excel](https://img.shields.io/badge/Excel-365-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-2023-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-2023-217346?style=flat&logo=microsoft-excel&logoColor=white)\
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-2023-34A853?style=flat&logo=google-sheets&logoColor=white)\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-F28C38?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Server-F28C38?style=flat&logo=postgresql&logoColor=white)\
+![Power BI](https://img.shields.io/badge/Power%20BI-2023-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-2023-F2C811?style=flat&logo=powerbi&logoColor=black)\
+![Tableau](https://img.shields.io/badge/Tableau-2023-FFFFFF?style=flat&logo=tableau&logoColor=black)
 
 Welcome to my Data Analytics Portfolio! 
 I am an entry-level Data Analyst with experience in SQL, Python, Excel, Tableau, and Power BI. 
