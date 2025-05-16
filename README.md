@@ -31,6 +31,7 @@ Interested in supporting business development and continuously improving process
 - [Airbnb Dashboard](https://github.com/SvalentinoB/PortProjects/blob/main/projects/airbnb/README.md) - Airbnb Listings: Pricing Trends and Revenue Insights via Interactive Tableau Dashboard.
 - [Analysis of COVID19 Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/covid19-data-analysis/README.md) - An SQL-based analysis of COVID-19 datasets, focusing on key metrics such as total cases, fatalities, and vaccination rates to uncover pandemic trends.
 - [Biking Through Data: A Predictive Analysis of Rental Trends](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Biking_Through_Data_A_Predictive_Analysis_of_Rental_Trends/README.md) - Predicted hourly bike rental demand in Seoul using Python and machine learning (linear regression).
+- [Extracting Stock Data](https://github.com/SvalentinoB/PortProjects/blob/main/projects/Data_Science/Extracting_Stock_Data/README.md) - Extracted and analyzed AMD stock data using Python and yfinance for hedge fund insights.
 
 ## Skills
 - SQL (PostgreSQL, MySQL)
